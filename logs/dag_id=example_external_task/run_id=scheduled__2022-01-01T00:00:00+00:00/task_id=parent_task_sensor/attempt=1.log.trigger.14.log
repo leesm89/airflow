@@ -1,0 +1,2 @@
+{"timestamp":"2025-08-06T12:20:26.846906","level":"info","event":"trigger example_external_task/scheduled__2022-01-01T00:00:00+00:00/parent_task_sensor/-1/1 (ID 1) starting"}
+{"timestamp":"2025-08-06T12:20:27.315209","level":"info","event":"Sleeping for 2.0 seconds","logger":"airflow.providers.standard.triggers.external_task.WorkflowTrigger"}
